@@ -20,8 +20,8 @@ class Program
         Console.WriteLine(F4.GetFractionString());
         Console.WriteLine(F4.GetDecimalValue());
 
-
-        
+        // F3 and F4 help us to understand that objects or instances of the same constructor of a class, can 
+        // have different values for their attributes and so can be manipulated independently.
 
     }
 }
