@@ -4,7 +4,7 @@ using System.Collections.Generic;
 // I enhanced the Scripture Memorizer program by adding multiple scriptures 
 // and allowing the program to randomly select one for the user to memorize.
 
-public class Program
+class Program
 {
     static void Main(string[] args)
     {
