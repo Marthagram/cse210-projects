@@ -22,13 +22,6 @@ public class Scripture
         }
     }
 
-
-
-
-
-    
-
-
     public string GetDisplayText()
     {   
         // THIS APPROACH STILL WORKS BUT I DO NOT UNDERSTAND LINQ CODES YET
